@@ -5,6 +5,8 @@ A Front-End Developer with 3 years of experience, specializing in building user 
 
 # Skills
 
-<a href="https://www.linkedin.com/in/manohar-chimata-943424210/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/102px-React_Logo_SVG.svg.png"/></a>
+<a href="https://www.linkedin.com/in/manohar-chimata-943424210/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/100px-React_Logo_SVG.svg.png"/></a>
+<a href="https://www.linkedin.com/in/manohar-chimata-943424210/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png"/></a>
+
 
 
